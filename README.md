@@ -1,2 +1,2 @@
 # programaria-siteada
- Site desenvolvido no cruso EuProgramo da programaria 
+ Site desenvolvido no curso EuProgramo da programaria.
